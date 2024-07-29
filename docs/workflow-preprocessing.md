@@ -47,7 +47,7 @@
 
 # 1. Decide what to process
 
-Go to the [Wasabi folder list](https://docs.google.com/spreadsheets/d/1xXDcoyRDXQGZj_zUDFDlxC4xbW3bIbYDboIzTedm62o/edit?pli=1&gid=803581914#gid=803581914) Google Sheet to see what's left to process. Make sure no one else is working on that folder.
+Go to the [Wasabi folder list][REDACTED] Google Sheet to see what's left to process. Make sure no one else is working on that folder.
 
 # 2. Download from Wasabi
 
@@ -320,7 +320,7 @@ For an explanation of how this command works, see [DS_Store (Mac)](#ds_store-mac
 
 ## Renaming files
 
-If files are digitzed copies of physical materials, rename them to meet [ASC naming conventions](https://docs.google.com/document/d/1N3qL5PU05ex2XbeQRCtEkQ6mYLYqd7WohiNDLJ20OkY/edit#heading=h.99t87iss90w7).
+If files are digitzed copies of physical materials, rename them to meet [ASC naming conventions][REDACTED]
 
 If files are born-digital, no renaming is necessary unless the file name is problematic / could lead to encoding errors (eg. periods or commas in the file name). Keeping the original name is part of maintaining original order.
 
@@ -471,9 +471,9 @@ Permafrost documentation on [makeCSV](https://docs.scholarsportal.info/view/Main
 
 Permafrost documentation on metadata.csv [available here](https://docs.scholarsportal.info/view/Main/SP/PER/Documentation/Permafrost_Processing_Workflow/1._Preparing_Transfers/#H4.Addmetadatatoyourtransfer28optional29).
 
-TMU metadata.csv template [available here](https://docs.google.com/spreadsheets/d/1t-b71c3fMnisJxJ1o8UClNKfBpBUl33zdHyGATvo84w/edit?usp=drive_link).
+TMU metadata.csv template [available here][REDACTED]
 
-metadata.csv examples can be found in the [Transfers Metadata](https://drive.google.com/drive/folders/1JXbKXBlKSaHIhov6-uY82pkkqOTmXob6?usp=drive_link) folder (gdrive)
+metadata.csv examples can be found in the [Transfers Metadata][REDACTED]
 
 ## Why make a metadata.csv file?
 
@@ -501,10 +501,10 @@ If using Mac or Linux (eg. WSL), you will have to download a script and run it f
 ### makeCSV on Windows
 
 1. Use makeCSV on the folder(s) in objects using Permafrost instructions: [1A. Installing and using the makeCSV tool for Windows](https://docs.scholarsportal.info/view/Main/SP/PER/Documentation/Permafrost_First_Time_Tool_Setup/?srid=a62V4UpF#H1A.InstallingandusingthemakeCSVtoolforWindows)
-2. Upload the `metadata.csv` to the [Transfers Metadata](https://drive.google.com/drive/folders/1JXbKXBlKSaHIhov6-uY82pkkqOTmXob6?usp=drive_link) folder (gdrive) and open as a Google Sheet
+2. Upload the `metadata.csv` to the [Transfers Metadata][REDACTED] folder (gdrive) and open as a Google Sheet
    - Folders are named after fonds and files are named using the structure `metadata_fonds-series` (e.g. The folder `F536` has the files `metadata_F536-15` and `metadata_F536-16`)
    - You can also use Excel but then you have to ensure the csv has UTF-8 encoding which requires multiple steps (Permafrost has documentation on this) whereas Google Sheets is UTF-8 by default
-3. Add columns as per [TMU metadata.csv template](https://docs.google.com/spreadsheets/d/1t-b71c3fMnisJxJ1o8UClNKfBpBUl33zdHyGATvo84w/edit?usp=drive_link)
+3. Add columns as per [TMU metadata.csv template][REDACTED]
    - These are all the (current) metadata field options but not all of them need to be filled out (eg. if there isn't a dc:subject do not include the dc.subject column)
 4. Download AtoM record as csv
 5. Fill in metadata spreadsheet using AtoM record

@@ -6,9 +6,6 @@
     - [PDF (access) to PDF/A (preservation)](#pdf-access-to-pdfa-preservation)
     - [PDF/A conformance (veraPDF)](#pdfa-conformance-verapdf)
 
-
-
-
 ## PDF/A Normalization
 
 The following features retired documentation written for PDF/A normalization. Go to [Key Decisions: Not normalizing to PDF/A](/docs/future-work.md#not-normalizing-to-pdfa) to understand why this documentation was retired.

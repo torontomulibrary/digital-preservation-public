@@ -42,7 +42,7 @@ Essentially, each access link is a link to a file in the OLRC that we have store
 
 ## Where are access links stored?
 
-Currently all access links are being kept in [this Google spreadsheet](https://docs.google.com/spreadsheets/d/11JfvrROao72ReyshcKFBNiWValNlZESvrHHXjFq0TuE/edit#gid=1314361250). Search the sheet by reference number to find the link you're looking for. If the item isn't there but you know it has been processed, then you will need to make [a new access link](#how-do-i-create-new-access-links).
+Currently all access links are being kept in [this Google spreadsheet][REDACTED]. Search the sheet by reference number to find the link you're looking for. If the item isn't there but you know it has been processed, then you will need to make [a new access link](#how-do-i-create-new-access-links).
 
 ## How do I create new access links?
 
@@ -78,14 +78,14 @@ Follow Permafrost documentation [5. Accessing DIPs](https://docs.scholarsportal.
 
 ## Adding access links to TMU spreadsheet
 
-1. Make a new sheet in the [A&SC Google spreadsheet](https://docs.google.com/spreadsheets/d/11JfvrROao72ReyshcKFBNiWValNlZESvrHHXjFq0TuE/edit#gid=1314361250)
+1. Make a new sheet in the [A&SC Google spreadsheet][REDACTED]
 2. Choose one of the [access link creation methods](#how-do-i-create-new-access-links) and add access links to that new sheet
-3. Delete all the links you don't need / are already in the [A&SC Google spreadsheet](https://docs.google.com/spreadsheets/d/11JfvrROao72ReyshcKFBNiWValNlZESvrHHXjFq0TuE/edit#gid=1314361250)
+3. Delete all the links you don't need / are already in the [A&SC Google spreadsheet][REDACTED]
    - **Note:** Keep the METS XML metadata file
 4. Include the reference number in the spreadsheet with the URLs to facilitate retrieval.
    - For digitized materials, the file name is its reference number which is the last few digits of the URL, so you can use the excel formula `=right(A2,25)` (e.g. if A2 has the URL, and the reference code is the last 25 digits). Then replace the underscores - to  periods . to get the AtoM reference code, and remove the file extension from the name (e.g. .jpeg).
    - For born-digital materials, the files are not named after the reference number and thus you cannot use the method above. You will have to do some manual copy-pasting.
-5. Voila! You have your reference numbers and access links! Copy all of this data into the [access link spreadsheet](https://docs.google.com/spreadsheets/d/11JfvrROao72ReyshcKFBNiWValNlZESvrHHXjFq0TuE/edit#gid=1314361250).
+5. Voila! You have your reference numbers and access links! Copy all of this data into the [access link spreadsheet][REDACTED]
 6. Finally, include the URL to the xml metadata file in the spreadsheet.
 
 # Navigation
