@@ -1,4 +1,4 @@
-# Getting Started
+# Getting Starte
 
 [Click here to go back to the main Table of Contents](/README.md)
 
