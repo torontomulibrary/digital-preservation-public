@@ -33,7 +33,7 @@ Permafrost isn't a specific software or application. It's a package of different
 
 ![](/img/permafrost-ecosystem.png)
 
-Clicking on the above diagram will take you to the image file where you can then download it and zoom in. You can edit this diagram in the Google Drive here: https://drive.google.com/file/d/1REULH4M06NvcWeyaox_5DaFlCiZk9GX0/view?usp=sharing
+Clicking on the above diagram will take you to the image file where you can then download it and zoom in. You can edit this diagram in the Google Drive here: [REDACTED]
 
 **Note:** Though DuraCloud is part of Permafrost, TMU does not actively use it in our workflows
 
