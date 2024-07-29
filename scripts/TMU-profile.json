@@ -1,0 +1,72 @@
+{
+    "ordered": [
+		{
+            "accessionNumber": {
+                "fieldRequired": false
+            }
+        },
+        {
+            "fonds": {
+                "fieldRequired": false
+            }
+        },
+        {
+            "receivingInstitution": {
+                "fieldRequired": false,
+                "defaultValue": "Toronto Metropolitan University, Archives and Special Collections"
+            }
+        },
+        {
+            "receivingInstitutionContact": {
+                "fieldRequired": false,
+                "defaultValue": "Tanis Franco",
+				"valueList": [
+					"Holly Forsythe",
+                    "Tanis Franco",
+                    "Rosalynn MacKenzie",
+                    "Catherine McMaster",
+                    "Alison Skyrme",
+                    "Olivia Wong",
+                    "Jessica Ye"
+                ]
+            }
+        },
+        {
+            "digitalOriginality": {
+                "fieldRequired": false,
+                "defaultValue": "Original (Born-Digital)",
+                "valueList": [
+                    "Original (Born-Digital)",
+                    "Digitized (Original Destroyed)",
+                    "Digitized (Original Kept)",
+					"Mixed Origins (Born-Digital and Digitized)"
+                ]
+            }
+        },
+		        {
+            "digitalSource": {
+                "fieldRequired": false,
+                "defaultValue": "CD/DVD",
+                "valueList": [
+                    "CD/DVD",
+                    "Hard Drive - External",
+                    "Hard Drive - In Computer",
+					"Shared file space - Local Server",
+					"Shared file space - Cloud",
+					"USB Key",
+					"Other"
+                ]
+            }
+        },
+		        {
+            "digitalSourceNotes": {
+                "fieldRequired": false
+            }
+        },
+		{
+            "otherNotes": {
+                "fieldRequired": false
+            }
+        }
+    ]
+}
