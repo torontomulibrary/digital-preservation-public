@@ -18,9 +18,3 @@ For a full list of all the documentation available in this repository, look belo
 - [OLRC Manual](/docs/olrc-manual.md)
 - [Key Decisions and Future Work](/docs/future-work.md)
 - [Retired Documentation](/docs/retired-docs.md)
-
-<!---This is how you write a private comment in Markdown>
--Archivematica
-Before starting a large transfer, check there is sufficient storage space under Administration>Processing Storage Usage. Archivematica generally works on a 1:4 scale, where a transfer can be at most 25% of available processing space. For a transfer of 150GB, roughly 600GB of disk space should be sufficient to process the transfer although additional space will also be needed for AV normalization. Email permafrost@scholarsportal.info when disk usage is high and needs to be deleted.
-Coming soon...
-<!--->
