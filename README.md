@@ -16,7 +16,6 @@ For a full list of all the documentation available in this repository, look belo
   - [Granting access to processed materials (Creating access links)](/docs/workflow-access.md)
 - [Analyzing Normalization Rules](/docs/analyzing-normalization-rules.md)
 - [OLRC Manual](/docs/olrc-manual.md)
-- [BitCurator Starter Guide](/docs/bitcurator-for-born-digital-donations.md)
 - [Key Decisions and Future Work](/docs/future-work.md)
 - [Retired Documentation](/docs/retired-docs.md)
 
