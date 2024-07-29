@@ -104,11 +104,11 @@ Currently, no nice in-between, easy to update solution exists. [The CCA uses a W
 
 ### Born-digital
 
-TMU has not processed any born-digital donations as of yet since we are prioritizing our current backlog of largely digitized materials. Occasionally, some born-digital materials have been processed from the backlog, but no appraisal, virus-checking, arrangement, etc. typical of born-digital donations work has been undertaken. After the backlog has been processed, this will be TMU's next hurdle as this would require new and unique workflows. 
+TMU has not processed any born-digital donations as of yet since we are prioritizing our current backlog of largely digitized materials. Occasionally, some born-digital materials have been processed from the backlog, but no appraisal, virus-checking, arrangement, etc. typical of born-digital donations work has been undertaken. After the backlog has been processed, this will be TMU's next hurdle as this would require new and unique workflows.
 
 ### More file formats
 
-Because TMU has not finished processing our backlog, there are still many file formats left that we have not encountered and future normalization desicions must be made for these as they get processed.
+Because TMU has not finished processing our backlog, there are still many file formats left that we have not encountered and future normalization decisions must be made for these as they get processed.
 
 ### Script for metadata
 
