@@ -360,7 +360,7 @@ If you check the AIP (whether it's using [official Permafrost documentation](#ch
 
 1. Go to **Archival storage**
 2. Click on the AIP you want to delete
-3. Go to **Delete** under **Actions**
+3. Go to the **Delete** tab under **Actions**
 4. Copy the AIP's UUID into the **UUID** field and include a reason to deletion (eg. mistake)
 5. Press **Delete**
 6. Email Permafrost letting them know you put in an AIP deletion request
