@@ -91,7 +91,7 @@ After the backlog of materials in Wasabi has been processed and put through Perm
 
 Currently normalization choices are being tracked via:
 
-1. [TMU-NormalizationRules.xlsx](https://docs.google.com/spreadsheets/d/1TJ5GIwDrqP9TdW3CbJnW0OadrJMZKTnr/edit#gid=1754983470): official spreadsheet of all the rules which have been en/disabled for TMU's Archivematica instance
+1. [TMU-NormalizationRules.xlsx][REDACTED]: official spreadsheet of all the rules which have been en/disabled for TMU's Archivematica instance
 2. [Processing in Archivematica: Normalization options](/docs/workflow-archivematica.md#normalization-options): informal more general list of the various file formats which have been encountered and tested thus far
 
 Problems with this:
