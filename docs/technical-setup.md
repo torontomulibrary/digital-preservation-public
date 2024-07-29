@@ -81,7 +81,7 @@ This profile will preserve the date metadata of the file when you download it. A
 For the **Open Connection** window:
 
 - put `s3.wasabisys.com` as the **URL**
-- get the **Access Key ID** and **Secret Access Key** from this [credentials.csv](https://drive.google.com/file/d/1Z1BnQ3a26J3KxlNPAJ_LwSdU68hT9J7G/view?usp=sharing)
+- get the **Access Key ID** and **Secret Access Key** from this [credentials.csv][REDACTED]
   - if you have trouble accessing that CSV file, ask MJ Suhonos for access
 
 ![Open Connection window Cyberduck](/img/open-connection-cyberduck.PNG)

@@ -201,7 +201,7 @@ See Permafrost documentation [1. Start the transfer in Archivematica](https://do
 
 See Permafrost documentation [2. Process the transfer](https://docs.scholarsportal.info/view/Main/SP/PER/Documentation/Permafrost_Processing_Workflow/3._Processing_Transfers_in_Archivematica/#H2.Processthetransfer)
 
-A more detailed analysis of the exact normalization rules for our instance is available here [TMU-NormalizationRules.xlsx](https://docs.google.com/spreadsheets/d/1TJ5GIwDrqP9TdW3CbJnW0OadrJMZKTnr/edit#gid=1754983470)
+A more detailed analysis of the exact normalization rules for our instance is available here [TMU-NormalizationRules.xlsx][REDACTED]
 
 Formats we have already analyzed:
 
@@ -326,7 +326,7 @@ By searching **Archival storage**...
 
 *If the file has an unusual name (eg. uncommon characters) then you will need to [follow Permafrost documentation and download the METS XML](#checking-the-aip)
 
-Refer to the metadata.csv file you downloaded from [the Transfers Metadata folder](https://drive.google.com/drive/folders/1JXbKXBlKSaHIhov6-uY82pkkqOTmXob6) as part of [Preprocessing / Pre-Ingest Procedures: # 4. Make metadata.csv file](/docs/workflow-preprocessing.md#4-make-metadatacsv-file) to check the metadata.
+Refer to the metadata.csv file you downloaded from [the Transfers Metadata folder][REDACTED] as part of [Preprocessing / Pre-Ingest Procedures: # 4. Make metadata.csv file](/docs/workflow-preprocessing.md#4-make-metadatacsv-file) to check the metadata.
 
 First check the fonds number:
 
