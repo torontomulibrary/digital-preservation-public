@@ -39,7 +39,6 @@ Make sure you're able to access the following pages:
   - this page lists your username for Archivematica
 - TMU Archivematica: https://archtorontomu.scholarsportal.info/
 - TMU Horizon: https://olrc2.scholarsportal.info/horizon
-  - domain: torontomu
 
 # Mandatory Software
 
