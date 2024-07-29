@@ -1,6 +1,6 @@
 # TMU Libraries Digital Preservation Guide
 
-This repository is TMU Libraries' guide for processing and uploading digitized and born-digital materials for digital preservation purposes. It is a living document and will be updated as policies and procedures change.
+This repository is the public version of TMU Libraries' guide for processing and uploading digitized and born-digital materials for digital preservation purposes. Sensitive internal information and links have been redacted. This version was cloned from the template repository on July 29, 2024.
 
 For official Permafrost documentation, see the [TMU Permafrost Page](https://docs.scholarsportal.info/view/Main/SP/PER/Participant_Pages/TMU/)
 
