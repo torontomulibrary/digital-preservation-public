@@ -134,6 +134,6 @@ This is not a comprehensive table and practices will change as TMU's Digital Pre
 - TMU Bagger profile is an edited version of Queen's Bagger profile (fewer fields and new fields)
 - convert.py converts output from Exiftool into CSV format that can be used in Archivematica CSV import, not immediately useful for TMU metadata workflows because
   - Exiftool extracts technical metadata but TMU's metadata CSVs feature largely descriptive metadata
-  - Archivematica also runs Exiftool on the transfer and extracts technical metadata as one of its jobs do that metadata is still being captured in the METS XML
+  - Archivematica also runs Exiftool on the transfer and extracts technical metadata as one of its jobs so that metadata is still being captured in the METS XML
   - TMU does not currently have our AtoM and Archivematica instances connected so the technical metadata does not appear in AtoM and thus does not need to be cleaned with a script to be more human-readable
 - requires groups.io / Permafrost Forum login to access
