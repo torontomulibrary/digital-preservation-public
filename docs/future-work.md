@@ -11,6 +11,7 @@
   - [Future Work](#future-work)
     - [Clearing out Wasabi and re-organizing Google Drive](#clearing-out-wasabi-and-re-organizing-google-drive)
     - [Easier way of tracking normalization choices](#easier-way-of-tracking-normalization-choices)
+    - [Secondary storage](#secondary-storage)
     - [Born-digital](#born-digital)
     - [More file formats](#more-file-formats)
     - [Script for metadata](#script-for-metadata)
@@ -101,6 +102,17 @@ Problems with this:
 3. The informal list is so informal that it doesn't capture all the nauces of the choices (eg. PDFs are _not_ considered preservation formats but we are nonetheless not normalizing them) but acts as a quick guide that is easier to update
 
 Currently, no nice in-between, easy to update solution exists. [The CCA uses a Word Doc with a table](https://github.com/CCA-Public/digital-archives-manual/blob/master/guides/CCA%20Format%20Policy%20Registry%20v2%20201804.pdf). It might be worth replicating their format in the future as a new Google sheet (NOT a word doc as that is both not AODA-compliant and still difficult to update).
+
+### Secondary storage
+
+According to digital preservation best practices, there should be multiple backup locations for digital objects. Currently, TMU stores our AIPs in the OLRC, but if budgeting permits it would be worth looking into the following as storage options for our AIP backups:
+
+- Permafrost tape library program
+  - As of writing in July 2024, this program has started with some pilots from other Permafrost members
+  - It piggybacks off of UofT's existing Linear Tape-Open (LTO) infrastructure (cheaper than building our own)
+- AWS
+  - Another cloud storage option, more research needs to be done concerning its viability + ensuring the servers are on Canadian soil
+  - Will be much more expensive than the Permafrost tape library program
 
 ### Born-digital
 
