@@ -112,7 +112,7 @@ Because TMU has not finished processing our backlog, there are still many file f
 
 ### Script for metadata
 
-Currently, creating the metadata.csv file takes a lot of time as it is a lot of manual copy-pasting and checking. Ideally, there would be a script in the future to convert the relevant parts of the RAD csv from AtoM into the proper metadata.csv format. However, the RAD csv might not always be up to date and processing the transfer is also a good opportunity to update the AtoM record. An autonatic script might not catch that and might in fact accidentally include out-of-date metadata.
+Currently, creating the metadata.csv file takes a lot of time as it is a lot of manual copy-pasting and checking. Ideally, there would be a script in the future to convert the relevant parts of the RAD csv from AtoM into the proper metadata.csv format. However, the RAD csv might not always be up to date and processing the transfer is also a good opportunity to update the AtoM record. An automatic script might not catch that and might in fact accidentally include out-of-date metadata. It is still worth considering though as this part in the workflow is a huge timesink.
 
 ### Script for generating access links
 
@@ -120,10 +120,10 @@ Currently, the process for generating access links for the TMU access links spre
 
 ### Archivematica API
 
-UofA has used this API to ingest thousands of small transfers from a large collection thus bypassing the slowness of the Archivematica graphic user interface and turning a 6 month project to a 2 month project. TMU has opted not to do this as we don't currently have any materials that would apply to this use case, but if anything similar comes up it would be worth looking into.
+UofA has used this API to ingest thousands of small transfers from a large collection thus bypassing the slowness of the Archivematica graphic user interface and turning a 6 month project into a 2 month project. TMU has opted not to do this as we don't currently have any materials that would apply to this use case, but if anything similar comes up it would be worth looking into.
 
 ### Archivematica-to-AtoM API vs full connection
 
 A full connection would not benefit TMU as the main benefit of that is to export the access copies directly into the AtoM server. Our server is already small and costly, so we should continue to push access copies to the OLRC.
 
-However, the API connection might be useful for future born-digital donations as that pushes the technical metadata of items straight to AtoM the main benefit of this is that donors can then see that their donation has been processed. This just requires TMU Library IT to conncect via an API key. Worth looking into once born-digital donations come along.
+However, the API connection might be useful for future born-digital donations as that pushes the technical metadata of items straight to AtoM. The main benefit of this is that donors can then see that their donation has been processed. This just requires TMU Library IT to conncect via an API key. Worth looking into once born-digital donations come along.
