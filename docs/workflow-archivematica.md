@@ -354,6 +354,17 @@ In some cases, the file you're looking for won't show up. This is likely because
 
 In the example above, the **dc<nolink>.title** "2022 - 10_30AM.mp4" does not appear as expected.
 
+## Deleting the AIP
+
+If you check the AIP (whether it's using [official Permafrost documentation](#checking-the-aip) or just [viewing it through Archival storage](#viewing-the-aips-in-archival-storage)), discover that it's wrong, and want to delete it, you will need to notify Permafrost:
+
+1. Go to **Archival storage**
+2. Click on the AIP you want to delete
+3. Go to **Delete** under **Actions**
+4. Copy the AIP's UUID into the **UUID** field and include a reason to deletion (eg. mistake)
+5. Press **Delete**
+6. Email Permafrost letting them know you put in an AIP deletion request
+
 ## Deleting the transfer from your computer and Horizon
 
 After you have processed the transfer into a AIP and are _certain_ you no longer need it, delete the transfer from your computer and Horizon. Once something has been deleted from the OLRC it cannot be recovered! You might even want to [create access links](/docs/workflow-access.md) first before you delete anything, just to be extra safe.
