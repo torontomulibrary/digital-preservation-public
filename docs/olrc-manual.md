@@ -9,7 +9,7 @@ Documentation for the OLRC, supplemental to Permafrost since Permafrost uses the
     - [Editing the script](#editing-the-script)
       - [Changing the container you delete from](#changing-the-container-you-delete-from)
       - [Deleting a specific set of files instead of everything](#deleting-a-specific-set-of-files-instead-of-everything)
-  - [Delete oprhaned OLRC segment containers](#delete-oprhaned-olrc-segment-containers)
+  - [Delete orphaned OLRC segment containers](#delete-orphaned-olrc-segment-containers)
     - [What are segments?](#what-are-segments)
     - [What about segments containers?](#what-about-segments-containers)
     - [What is the solution?](#what-is-the-solution)
@@ -57,7 +57,7 @@ Instructions above are also present in the bash script itself as a comment.
 
 **Note:** This might still leave some leftover files if files have similar names (eg. if you uploaded several duplicates of the same transfer) but usually those leftover files are small in number and can be deleted via the Horizon interface
 
-## Delete oprhaned OLRC segment containers
+## Delete orphaned OLRC segment containers
 
 Information in this section provided via email by Julie Shi, Digital Preservation Librarian at Scholars Portal
 
