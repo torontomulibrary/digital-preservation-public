@@ -2,6 +2,8 @@
 
 This repository is the public version of TMU Libraries' guide for processing and uploading digitized and born-digital materials for digital preservation purposes. Sensitive internal information and links have been redacted. This version was cloned from the template repository on July 29, 2024.
 
+Please do not make pull requests to this repo as they will be rejected. If you have feedback or ideas, please [post them in Discussions](https://github.com/torontomulibrary/digital-preservation-public/discussions)
+
 For official Permafrost documentation, see the [TMU Permafrost Page](https://docs.scholarsportal.info/view/Main/SP/PER/Participant_Pages/TMU/)
 
 For a full list of all the documentation available in this repository, look below.
