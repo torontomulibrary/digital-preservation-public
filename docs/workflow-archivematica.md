@@ -253,10 +253,7 @@ So you have access to [xmllint](https://linux.die.net/man/1/xmllint), a command 
 2. Before you approve the normalization, generate a normalization report by clicking on the report icon next to the gear icon (see Permafrost documentation for screenshot)
 3. Right-click on the page and choose **Inspect** from the drop-down menu. This will open the developer console.
 4. In the developer console, click on the **Application** tab (you might have to click on the arrow to see more tabs).
-5. Open the **Cookies** menu under **Storage** and click on the URL in it. The console should now display the **crsftoken** and the **sessionid** cookies which you will need to run the script.
-
-![Normalization report page with web developer's console open](/img/find-cookie-chrome.PNG)
-
+5. Open the **Cookies** menu under **Storage** and click on the URL in it. The console should now display the **crsftoken** and the **sessionid** cookies which you will need to run the script
 6. Download the script [report_downloader_v3.sh](/scripts/report_downloader_v3.sh) and move it into whatever folder you want the exported report (a csv file) to be. For an example report, see [report.csv](/scripts/report.csv).
 7. `cd` into the folder with the script and run command `chmod +x report_downloader_v3.sh` to grant permissions to run the script.
 8. The command for the script has the following structure:
