@@ -263,10 +263,6 @@ So you have access to [xmllint](https://linux.die.net/man/1/xmllint), a command 
 
 `./report_downloader_v3.sh ${REPORT_URL} ${NUMBER_OF_PAGES} csrftoken=${CSRF_TOKEN} sessionid=${SESSION_ID} > report.csv`
 
-Here's an example command with all the values filled out:
-
-`./report_downloader_v3.sh https://archtorontomu.scholarsportal.info/ingest/normalization-report/1b62327d-09bd-4c91-8d51-fe81dd9258f5/ 16 csrftoken=***REMOVED*** sessionid=***REMOVED*** > report.csv`
-
 Here's a breakdown of each part of the command:
 
 `${REPORT_URL}` = the URL for the normalization report
