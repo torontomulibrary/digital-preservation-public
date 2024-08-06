@@ -20,19 +20,19 @@ Access links are public links to access copies that you can give to patrons in l
 
 Access links are created by attaching the name of the object in the **access** container in Horizon to TMU's static Permafrost URL. For example:
 
-- TMU static Permafrost URL = ***REMOVED***
+- TMU static Permafrost URL = [REDACTED]
 
-- Name of object in the **access** container = ***REMOVED***
+- Name of object in the **access** container = [REDACTED]
 
-- Public access link = ***REMOVED******REMOVED***
+- Public access link = [REDACTED]
 
 More examples:
 
 |Description|Link|
 |---|---|
-|PDF for [RG 4.10.01.01](https://archives.library.torontomu.ca/index.php/fey2-y4w3-aetm): "Forum newsletter: Vol. 1 No. 1 September 12, 1975"|***REMOVED******REMOVED***|
-|JPEG for [F 536.20.05.12](https://archives.library.torontomu.ca/index.php/crane-removing-roof-brace-section): "Crane removing roof brace section"|***REMOVED******REMOVED***|
-|MP3 from [RG 456.05.06](https://archives.library.torontomu.ca/index.php/women-a-united-nations-radio-show-audiocassettes): "Women - a United Nations Radio Show audiocassettes"|***REMOVED******REMOVED***|
+|PDF for [RG 4.10.01.01](https://archives.library.torontomu.ca/index.php/fey2-y4w3-aetm): "Forum newsletter: Vol. 1 No. 1 September 12, 1975"|[REDACTED]|
+|JPEG for [F 536.20.05.12](https://archives.library.torontomu.ca/index.php/crane-removing-roof-brace-section): "Crane removing roof brace section"|[REDACTED]|
+|MP3 from [RG 456.05.06](https://archives.library.torontomu.ca/index.php/women-a-united-nations-radio-show-audiocassettes): "Women - a United Nations Radio Show audiocassettes"|[REDACTED]|
 
 ## How does this work? (technical information and limitations)
 
