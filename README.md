@@ -1,6 +1,6 @@
 # TMU Libraries Digital Preservation Guide
 
-This repository is the public version of TMU Libraries' guide for processing and uploading digitized and born-digital materials for digital preservation purposes. Sensitive internal information and links have been redacted. This version was cloned from the template repository on July 29, 2024.
+This repository is the public version of TMU Libraries' guide for processing and uploading digitized and born-digital materials for digital preservation purposes. Sensitive internal information and links have been redacted using [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/). This version was cloned from the template repository on July 29, 2024.
 
 Please do not make pull requests to this repo as they will be rejected. If you have feedback or ideas, please [post them in Discussions](https://github.com/torontomulibrary/digital-preservation-public/discussions)
 
